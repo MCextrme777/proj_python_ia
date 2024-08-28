@@ -1,4 +1,4 @@
-a = 1
-b = 2
-res = a + b
+a = 6
+b = 0
+res = a / b
 print (res)
